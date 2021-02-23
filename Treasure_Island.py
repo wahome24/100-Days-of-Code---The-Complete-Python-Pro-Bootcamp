@@ -23,7 +23,6 @@ if direction == 'L':
     else:
         print('The river is full of crocodiles.Game over!')
         
-
 else:
     print('Ooops! Dead end. Game over')
 
